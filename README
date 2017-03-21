@@ -1,0 +1,10 @@
+### Please follow the instructons below to run NN and K_means scripts properly ###
+1. Download each Python library imported in both files by using any package managers.
+
+2. Put your music files into test and training folders making sure that each one goes to the corresponding genre sub folder.
+
+3. Run NN.py to test Neural Network implementation, wait around 30 mins until it plots the cost function and outputs the f-score and labels on the console. 
+
+4. Run K_means.py to test K-means implementation which takes less time to finish training and outputs the predicted values on the console.  
+
+Have fun…
